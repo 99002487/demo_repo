@@ -2,7 +2,7 @@
 int add();
 int main()
 {
-    printf("simple program for helloworld");
+    printf("A simple program");
     add();
     return 0;
 }
